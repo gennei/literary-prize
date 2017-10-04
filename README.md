@@ -12,5 +12,6 @@ and more ...
 
 
 ## データソース
-[直木賞のすべて](http://prizesworld.com/akutagawa/)
-[芥川賞のすべて・のようなもの](http://prizesworld.com/naoki/)
+- [直木賞のすべて](http://prizesworld.com/akutagawa/)
+- [芥川賞のすべて・のようなもの](http://prizesworld.com/naoki/)
+- [文学賞の世界](http://prizesworld.com/prizes/)
