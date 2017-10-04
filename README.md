@@ -9,3 +9,8 @@
 - [ ] 早稲田文学新人賞
 
 and more ...  
+
+
+## データソース
+[直木賞のすべて](http://prizesworld.com/akutagawa/)
+[芥川賞のすべて・のようなもの](http://prizesworld.com/naoki/)
